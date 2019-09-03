@@ -291,5 +291,3 @@ word_count[:50]
 
 
 # # Fim
-
-# ### Obrigado - Data Science Academy - <a href="http://facebook.com/dsacademybr">facebook.com/dsacademybr</a>
